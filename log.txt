@@ -114,3 +114,18 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/1-channel relay board with easyC to 1-channel-relay-board-with-easyC-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/Stepper motor driver DRV8825 board/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main e5a7fa7] Updating open source files.
+ 1 file changed, 29 insertions(+)
+https://github.com/SolderedElectronics/Stepper-motor-driver-DRV8825-board-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Aktuatori-black/1-channel relay board with easyC/OUTPUTS/V1.1.1: all files are present, commiting...
+1-channel-relay-board-with-easyC-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Aktuatori-black/1-channel relay board with easyC to 1-channel-relay-board-with-easyC-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Aktuatori-black/Stepper motor driver DRV8825 board/.git/
