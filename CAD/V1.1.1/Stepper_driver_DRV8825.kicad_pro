@@ -400,7 +400,7 @@
       "step": "../../OUTPUTS/V1.1.1/Stepper_driver_DRV8825_3D.step",
       "vrml": ""
     },
-    "page_layout_descr_file": "${KICAD_USER_TEMPLATE_DIR}/SCH_template/Soldered SCH template.kicad_wks"
+    "page_layout_descr_file": "${TAVU_KICAD_SCH_TEMPLATE}/Soldered SCH template.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
