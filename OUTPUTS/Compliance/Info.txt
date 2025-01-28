@@ -1,5 +1,5 @@
 SKU: 333000
 Full product name: Stepper motor driver DRV8825 board
 Country of origin: Croatia
-HS tariff code: 85030029
-EAN/UPC barcode: 
+HS tariff code: 85340090
+EAN/UPC barcode: 691835835723
